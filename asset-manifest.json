@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rehnuma-E-Kisaan/static/css/main.5a4ccb00.chunk.css",
+    "main.js": "/Rehnuma-E-Kisaan/static/js/main.7a5756a5.chunk.js",
+    "main.js.map": "/Rehnuma-E-Kisaan/static/js/main.7a5756a5.chunk.js.map",
+    "runtime-main.js": "/Rehnuma-E-Kisaan/static/js/runtime-main.40c94322.js",
+    "runtime-main.js.map": "/Rehnuma-E-Kisaan/static/js/runtime-main.40c94322.js.map",
+    "static/js/2.2789ddb0.chunk.js": "/Rehnuma-E-Kisaan/static/js/2.2789ddb0.chunk.js",
+    "static/js/2.2789ddb0.chunk.js.map": "/Rehnuma-E-Kisaan/static/js/2.2789ddb0.chunk.js.map",
+    "index.html": "/Rehnuma-E-Kisaan/index.html",
+    "static/css/main.5a4ccb00.chunk.css.map": "/Rehnuma-E-Kisaan/static/css/main.5a4ccb00.chunk.css.map",
+    "static/js/2.2789ddb0.chunk.js.LICENSE.txt": "/Rehnuma-E-Kisaan/static/js/2.2789ddb0.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Rehnuma-E-Kisaan/static/media/SFProText-Regular.90da7ab1.ttf",
+    "static/media/loader.be2f955b.gif": "/Rehnuma-E-Kisaan/static/media/loader.be2f955b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40c94322.js",
+    "static/js/2.2789ddb0.chunk.js",
+    "static/css/main.5a4ccb00.chunk.css",
+    "static/js/main.7a5756a5.chunk.js"
+  ]
+}
