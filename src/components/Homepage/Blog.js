@@ -16,7 +16,7 @@ const Blog = () => {
       />
       <BlogPost
         imgLink="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80"
-        blogTitle="AI Engine built for India"
+        blogTitle="AI Engine built for Pakistan"
         blogBody="Climate change shocks coupled with pests and diseases often prevent Indian farmers from becoming profitable enterprises. One of thr major problem being no expert advice easily availaible for Indian farmers. We allow them to easily diagnose diseases on their existing smartphones."
       />
     </div>

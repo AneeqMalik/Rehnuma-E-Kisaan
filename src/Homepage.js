@@ -110,7 +110,7 @@ class Homepage extends Component {
       diseases.push({
         name,
         disease,
-        image: `https://coverimages.blob.core.windows.net/disease-cover-images/${predictedDisease}.JPG`,
+        // image: `http://www.google.com/images?q=${predictedDisease}.PNG`,
         cureURL: encodeURI(`https://www.google.com/search?q=How to cure ${disease} in ${name}`)
       })
     }

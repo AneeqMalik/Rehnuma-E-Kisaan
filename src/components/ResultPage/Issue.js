@@ -2,7 +2,7 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const Issue = ({
-  issueImage,
+  // issueImage,
   issueTitle,
   issueBody,
   cureURL
@@ -10,7 +10,7 @@ const Issue = ({
 
   return (
     <div className="issue">
-      <img src={`${issueImage}`} alt={issueTitle} />
+      {/* <img src={`${issueImage}`} alt={issueTitle} /> */}
       <div className="issue-text">
         <h3>{issueTitle}</h3>
         <p>{issueBody}</p>
